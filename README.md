@@ -2,7 +2,7 @@
 Yet another Bad Apple!! port, this time for Gameboy.
 
 This project ports the popular Bad Apple!! music video to the original Gameboy. It makes use of a combination run-length encoding and delta encoding to fit the entire video into a single 1 MB Gameboy rom. This project is written entirely in C, Gameboy assembly and shell scripts.
-Here is a demo of the final product running Emulicious, in glorious 40x36 resolution at 30fps:
+Here is a demo of the final product running in Emulicious, in glorious 40x36 resolution at 30fps:
 
 Here is the original video for reference:
 https://youtu.be/FtutLA63Cp8?si=WIOnNd1MFXj1KDsM
